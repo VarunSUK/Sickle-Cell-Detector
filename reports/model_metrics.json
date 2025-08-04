@@ -1,0 +1,9 @@
+{
+    "accuracy": 0.9883720930232558,
+    "sensitivity": 0.984375,
+    "specificity": 1.0,
+    "precision": 1.0,
+    "f1_score": 0.9921259842519685,
+    "roc_auc": 1.0,
+    "average_precision": 1.0
+}
